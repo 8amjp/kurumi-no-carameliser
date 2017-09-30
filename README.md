@@ -2,6 +2,8 @@
 
 🍭この街で一番甘いのは、あたしの血だよ！🍰
 
+[Show GitHub Pages](https://8amjp.github.io/kurumi-no-carameliser/)
+
 ## 目次
 
 ### 🍬くるみのキャラメリゼ -Kurumi no Carameliser-
