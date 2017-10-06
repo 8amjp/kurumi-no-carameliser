@@ -1,1 +1,15 @@
-theme: jekyll-theme-architect
+title: くるみのキャラメリゼ
+author: 足羽川永都
+description: >
+  🍭この街で一番甘いのは、あたしの血だよ！🍰
+image: https://8amjp.github.io/site-icon.png
+type: novel
+card: summary
+index: manual
+twitter_username: 8amjp
+github_username:  8amjp
+google_analytics: UA-41627578-3
+
+# Build settings
+markdown: kramdown
+theme: minima

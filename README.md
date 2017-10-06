@@ -1,17 +1,29 @@
-# くるみのキャラメリゼ
+くるみのキャラメリゼ
+===================
 
-🍭この街で一番甘いのは、あたしの血だよ！🍰
+これは[足羽川永都](https://github.com/8amjp)が中心となって執筆したWeb小説です。
+[GitHub Pages](https://8amjp.github.io/kurumi-no-carameliser/)でお読みください。
 
-[Show GitHub Pages](https://8amjp.github.io/kurumi-no-carameliser/)
+下記の小説投稿サイトでも公開しています。
+
+* [カクヨム](https://kakuyomu.jp/works/1177354054882667516)
+* [novelabo](https://www.novelabo.com/my/books/2679)
+
+## Description
+
+*🍭この街で一番甘いのは、あたしの血だよ！🍰*
+
+くるみ：キャラメリゼ女子高生。左手指から出るカラメルで出来た殻を纏う。
+三秀園ショコラ：お菓子系アンドロイド。お菓子の力で人を幸せにするのが生き甲斐。
 
 ## 目次
 
 ### 🍬くるみのキャラメリゼ -Kurumi no Carameliser-
 
-* [🍬1 くるみのキャラメリゼ](./text/01.md)
-* [🍬2 基本的にお菓子なので](./text/02.md)
-* [🍬3 籠りたい系女子、壊したい系女子](./text/03.md)
-* [🍬4 その涙はきっと何よりも甘くて](./text/04.md)
+* [🍬1 くるみのキャラメリゼ](./text/001.md)
+* [🍬2 基本的にお菓子なので](./text/002.md)
+* [🍬3 籠りたい系女子、壊したい系女子](./text/003.md)
+* [🍬4 その涙はきっと何よりも甘くて](./text/004.md)
 
 ### 🍨薫オーバーラン -Kaoru Overrun-
 
