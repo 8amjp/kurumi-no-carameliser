@@ -5,7 +5,6 @@ description: >
   [お菓子系SF/連作短編]
 index: manual
 
-image: icon.png
 type: novel
 google_analytics: UA-41627578-3
 twitter:
@@ -17,3 +16,5 @@ theme: minima
 
 plugins:
   - jekyll-seo-tag
+gems:
+  - jekyll-octicons
