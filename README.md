@@ -33,7 +33,7 @@
 * [🍨1 薫オーバーラン](episodes/006.md)
 * [🍨2 ハロー、マイフレンド](episodes/007.md)
 * [🍨3 お菓子の街の鬼ごっこ](episodes/008.md)
-* 🍨4
+* [🍨4 全力で味方だよ](episodes/009.md)
 
 ### 🍰佳菜子フランベ -Kanako Flambé-
 
