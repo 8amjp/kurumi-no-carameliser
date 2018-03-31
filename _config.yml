@@ -1,0 +1,19 @@
+title: フレイルとジェリービーンズ
+author: 8amjp
+description: >
+  あたしはきっとあきらめない。
+  たとえ、この体のジェリービーンズがはじけ飛んでも。
+  [お菓子系SF/連作短編/連載中]
+index: manual
+
+type: novel
+google_analytics: UA-41627578-3
+twitter:
+  username: 8amjp
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
