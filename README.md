@@ -8,6 +8,13 @@
 ![短編小説](https://img.shields.io/badge/%E5%BD%A2%E5%BC%8F-%E7%9F%AD%E7%B7%A8%E5%B0%8F%E8%AA%AC-orange.svg)
 ![連載中](https://img.shields.io/badge/%E5%9F%B7%E7%AD%86%E7%8A%B6%E6%B3%81-%E9%80%A3%E8%BC%89%E4%B8%AD-red.svg)
 
+## Usage
+
+これはGitHub上で執筆しているWeb小説です。  
+[GitHub Pages](https://8novels.github.io/jelly-beans/)の他、下記の小説投稿サイトでも公開しています。
+
+* [ノベラボ](https://www.novelabo.com/authors/1923/series/208)
+
 ## Description
 
 お菓子系の特殊能力を持つ女の子たち。  
