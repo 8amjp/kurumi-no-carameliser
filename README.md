@@ -14,6 +14,7 @@
 [GitHub Pages](https://8novels.github.io/jelly-beans/)の他、下記の小説投稿サイトでも公開しています。
 
 * [ノベラボ](https://www.novelabo.com/authors/1923/series/208)
+* [小説家になろう](https://ncode.syosetu.com/n3498ev/)
 
 ## Description
 
