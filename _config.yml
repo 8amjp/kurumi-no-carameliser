@@ -13,7 +13,7 @@ twitter:
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-dinky
 
 plugins:
   - jekyll-seo-tag
