@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/8novels/jelly-beans#readme",
   "dependencies": {
-    "novel-builder": "^0.3.3"
+    "novel-builder": "^0.3.4"
   }
 }
