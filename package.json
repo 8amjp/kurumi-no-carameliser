@@ -1,0 +1,35 @@
+{
+  "name": "jelly-beans",
+  "version": "1.0.0",
+  "description": "フレイルとジェリービーンズ",
+  "main": "index.js",
+  "scripts": {
+    "novel-build": "novel-build",
+    "novel-build-narou": "novel-build-narou",
+    "novel-build-note": "novel-build-note",
+    "novel-build-novelabo": "novel-build-novelabo",
+    "novel-png": "novel-png",
+    "novel-png-square": "novel-png-square",
+    "novel-png-paperback": "novel-png-paperback",
+    "novel-png-note-header": "novel-png-note-header",
+    "novel-png-twitter-header": "novel-png-twitter-header",
+    "novel-proofread": "novel-proofread",
+    "novel-publish": "novel-publish",
+    "novel-publish-horizontal": "novel-publish-horizontal",
+    "novel-publish-vertical": "novel-publish-vertical",
+    "novel-report": "novel-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8novels/jelly-beans.git"
+  },
+  "author": "8amjp",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/8novels/jelly-beans/issues"
+  },
+  "homepage": "https://github.com/8novels/jelly-beans#readme",
+  "dependencies": {
+    "novel-builder": "^0.3.3"
+  }
+}
